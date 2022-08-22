@@ -1,2 +1,0 @@
-# jsprep
-Various JS exercises 
