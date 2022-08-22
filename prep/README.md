@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] A linked list from an object
 - [ ] Reverse a linked list
 - [ ] Promises chaining
-- [ ] Object bits - jQuery like
+- [x] Object bits - jQuery like
 - [ ] Array/strings?
 - [ ] Args array
 - [ ] Currying?
