@@ -9,6 +9,13 @@ export const SideBar = () => {
                 <li><Link to="/fizzbuzz">FizzBuzz</Link></li>
                 <li><Link to="/palindrome">Palindrome</Link></li>
                 <li><Link to="/brackets">Brackets</Link></li>
+                <li> Pokemon
+                    <ul>
+                        <li><Link to="/pokefetch">Fetch</Link></li>
+                        <li><Link to="/pokeaxios">Axios</Link></li>
+                        <li><Link to="/pokehttp">HTTP</Link></li>
+                    </ul>
+                </li>
             </ul>
         </aside>
 

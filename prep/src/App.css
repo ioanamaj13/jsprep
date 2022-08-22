@@ -22,3 +22,15 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.fixedHeader {
+  position: fixed;
+  background: white;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.paddedContent {
+  padding-top: 80px;
+}
