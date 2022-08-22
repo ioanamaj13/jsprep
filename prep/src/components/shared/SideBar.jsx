@@ -7,6 +7,7 @@ export const SideBar = () => {
             <ul>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/fizzbuzz">FizzBuzz</Link></li>
+                <li><Link to="/palindrome">Palindrome</Link></li>
             </ul>
         </aside>
 
