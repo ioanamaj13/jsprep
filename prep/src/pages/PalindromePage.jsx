@@ -4,7 +4,7 @@ import { Palindrome } from "../components/Palindrome"
 export const PalindromePage = () => {
     return (
         <div>
-            <h1>FizzBuzz</h1>
+            <h1>Palindrome</h1>
             <Palindrome />
         </div>
     )

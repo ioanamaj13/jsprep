@@ -5,6 +5,7 @@ import { Home } from "./pages/Home";
 import { Layout } from "./pages/Layout";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { PalindromePage } from "./pages/PalindromePage";
+import { BracketsPage } from "./pages/BracketsPage";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route index element={<Home />} />
           <Route path="fizzbuzz" element={<FizzBuzzPage />} />
           <Route path="palindrome" element={<PalindromePage />} />
+          <Route path="brackets" element={<BracketsPage />} />
           <Route path="*" element={<ErrorPage />} />
         </Route>
       </Routes>
