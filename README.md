@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Quick and simple JS and react practice exercises/examples
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
